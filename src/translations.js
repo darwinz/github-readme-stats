@@ -207,7 +207,7 @@ const statCardLocales = ({ name, apostrophe }) => {
       "zh-tw": "參與項目數 （去年）",
       cs: "Přispěl k (minulý rok)",
       de: "Beigetragen zu (letztes Jahr)",
-      en: "Contributed to (last year)",
+      en: "Repos contributed to (past 12 mo)",
       bn: "অবদান (গত বছর)",
       es: "Contribuciones en (el año pasado)",
       fr: "Contribué à (l'année dernière)",
